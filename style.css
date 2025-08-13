@@ -1,0 +1,57 @@
+/* Asosiy sahifa stillari */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header qismi */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px solid #388E3C;
+    margin-bottom: 30px;
+}
+
+.subtitle {
+    font-size: 1.2em;
+    margin-top: 5px;
+}
+
+/* Har bir bo'lim uchun quti */
+.info-box {
+    background-color: #fff;
+    padding: 25px;
+    margin: 20px auto;
+    border: 3px solid #ccc;
+    width: 80%;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Namuna box */
+.sample-box {
+    border: 4px dashed #4CAF50;
+    padding: 20px;
+    margin-top: 15px;
+    background-color: #e8f5e9;
+}
+
+.sample-box img {
+    display: block;
+    margin-top: 10px;
+    border: 2px solid #2e7d32;
+    padding: 5px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
